@@ -1,0 +1,38 @@
+{
+  "name": "npmsearchplugin",
+  "version": "0.0.1-a",
+  "description": "Search the NPM Database remotely",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RudimentalHack",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.9",
+    "find-in-batches": "^3.0.0",
+    "request": "^2.88.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RudimentalHack/npmsearchplugin.git"
+  },
+  "keywords": [
+    "NPM",
+    "Search",
+    "Plugin",
+    "Discord",
+    "Bots",
+    "NPMDBSearch",
+    "Find",
+    "NPMs"
+  ],
+  "bugs": {
+    "url": "https://github.com/RudimentalHack/npmsearchplugin/issues"
+  },
+  "homepage": "https://github.com/RudimentalHack/npmsearchplugin#readme"
+}
